@@ -6,6 +6,7 @@ sap.ui.define([
 	return Controller.extend("znewrepository1.znewrepository1.controller.View1", {
 		onInit: function () {
 		//Update local branch version 1
+			//Update local branch version 2
 		}
 	});
 });
