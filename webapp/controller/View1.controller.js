@@ -4,7 +4,7 @@ sap.ui.define([
 	"use strict";
 	return Controller.extend("znewrepository1.znewrepository1.controller.View1", {
 		onInit: function () {
-
+		//Commit :first version after merge
 		}
 	});
 });
